@@ -104,10 +104,10 @@ const styles = StyleSheet.create({
     elevation: 2,            
   },
   header: {
-    fontWeight: 'bold',      // Make text bolder
-    marginVertical: 10,      // Add vertical margin to the top and bottom
-    marginHorizontal: 15,    // Add horizontal margin to the left and right
-    fontSize: 20,            // Slightly larger font size
+    fontWeight: 'bold',      
+    marginVertical: 10,      
+    marginHorizontal: 15,    
+    fontSize: 20,           
   },
   
 });
